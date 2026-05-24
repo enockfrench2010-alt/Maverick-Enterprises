@@ -1,5 +1,5 @@
-import ProductCard from '@/components/ProductCard';
-import Hero from '@/components/Hero';
+import ProductCard from '../components/ProductCard';
+import Hero from '../components/Hero';
 
 // Sample products - replace with API call
 const products = [
